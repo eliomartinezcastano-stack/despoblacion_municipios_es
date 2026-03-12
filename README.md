@@ -144,3 +144,4 @@ El repositorio incluye:
 - consultas SQL utilizadas en el análisis
 
 Repositorio: https://github.com/eliomartinezcastano-stack/despoblacion_municipios_es
+Dashboard explorador de municipios: https://public.tableau.com/app/profile/elio.mart.nez/viz/Exploradordemunicipios/Buscadormunicipio
